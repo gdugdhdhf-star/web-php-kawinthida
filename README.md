@@ -1,2 +1,3 @@
-# web-php-kawinthida
-web php project
+# kawinthida Chodcharat
+* รหัสนักศึกษา 69319010002
+* แผนกวิชาเทคโนโลยีสารสนเทศ
