@@ -7,6 +7,7 @@
     $gender = $_GET['userGender'];
     $city = $_GET['userCity'];
     $hoppy = $_GET['userHoppy'];
+    $message = $_GET['userMsg'];
 
     echo "สวัสดีคุณ $name<br>";
     echo "รหัสผ่านของคุณคือ: $password<br>";
@@ -16,5 +17,6 @@
     echo "เพศของคุณคือ: $gender<br>";
     echo "จังหวัดของคุณคือ: $city<br>";
     echo "งานอดิเรกของคุณคือ: " . implode(", ", $hoppy) . "<br>";
+    echo "ความคิดเห็นของคุณคือ: $message<br>";
 
 ?>
